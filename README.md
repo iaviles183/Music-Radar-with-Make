@@ -10,7 +10,7 @@ I'm adding the blueprint so you can download it and also a guide to do it everyt
 ----
 # AUTOMATION IMPORT
 
-If you want you can download the [BLUEPRINT](Spotify_Radar.blueprint.json) and import it into Make.com. You will have to do a bit of configuration so refer to the PDFs and only see this sections:
+If you want you can download the [BLUEPRINT](Spotify_Radar.blueprint.json) and import it into Make.com. You will have to do a bit of configuration so refer to the PDFs in [English](SpotifyRadarGuide_EN.pdf) or [Spanish](SpotifyRadarGuia_ES.pdf) and only see this sections:
 
 - Spotify Developer App
 
@@ -23,3 +23,5 @@ If you want you can download the [BLUEPRINT](Spotify_Radar.blueprint.json) and i
 # MANUAL AUTOMATION
 
 If you want to manually do everything from scratch and learn a bit how make.com works, you can do it by simply following the PDF guides and configure everything as it says.
+
+[English](SpotifyRadarGuide_EN.pdf) - [Spanish](SpotifyRadarGuia_ES.pdf)
